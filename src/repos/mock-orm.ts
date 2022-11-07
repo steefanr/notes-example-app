@@ -1,5 +1,4 @@
 import jsonfile from "jsonfile";
-import { Note } from "../models/Note";
 
 export interface IDBNote {
     content: string,
